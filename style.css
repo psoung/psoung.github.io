@@ -1,5 +1,35 @@
-div {
- margin-left: 500 px;
- margin-right: 500 px;
+body {
+ margin-left: 200px;
+ margin-right: 200px;
 }
  
+div {
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+#date {
+    font-size: 12px;
+}
+
+ul {
+    margin-top: 0%;
+}
+
+span { 
+    display: flex;
+    justify-content: space-between;
+}
+
+hr {
+    margin-top: 0%;
+    margin-bottom: 1%;
+}
+
+h1 {
+    margin-bottom: 0%;
+}
+
+h2 {
+    margin-bottom: 0%;
+}
