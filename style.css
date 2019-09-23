@@ -1,6 +1,10 @@
 body {
  margin-left: 200px;
  margin-right: 200px;
+ background-image: url(watercolor_background.jpg);
+ background-repeat: no-repeat;
+ background-size: 1600px 1000px;
+ background-attachment: scroll;
 }
  
 div {
